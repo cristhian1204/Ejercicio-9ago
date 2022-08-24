@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+}
+h1{
+    color: rgb(168, 133, 18);
+    font-size: 28px;
+}
+.Epibb{
+    /* background-color: blue; */
+    height: 700px;
+    width: 100%;
+    /* background-image: radial-gradient( circle, #00000017,#d3080821), url("./imagenes/playa.jpg"); */
+    background: rgb(158,28,190);
+background: linear-gradient(120deg, rgba(158,28,190,1) 20%, rgba(67,226,34,1) 40%, rgba(0,212,255,1) 60%, rgba(2,0,36,1) 80%);
+}
+.cubito{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    animation-name: animacioncita;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes animacioncita{
+    0%{background-color: blueviolet;
+    }
+    50%{background-color: blue;
+        transform: translate(400px) rotate(60deg) scale(5)
+    }
+    100%{background-color: aquamarine;
+        transform: translate(200px) rotate(90deg) scale(2)
+    }
+}
+.espacio{
+    margin-top: 450px;
+    height: 800px;
+    width: 800px;
+    background: rgb(222,222,222);
+background: linear-gradient(120deg, rgba(222,222,222,1) 30%, rgba(105,57,24,1) 61%);
+}
+.Robot{
+    height: 100px;
+    width: 100px;
+    animation-name: animacionsota;
+    animation-duration: 5s;
+}
+@keyframes animacionsota{
+    0%{transform: translate(0px);
+    }
+    50%{transform: translateX(400px);
+    }
+    75%{transform:translateY(600px) translateX(400px);
+    }
+    100%{transform: translateY(600px) translateX(-390px);
+    }
+    }
+.cubo1{ 
+    margin: 10px 20px 30px 40px;
+    height: 200px;
+    width: 200px;
+    background-color: #1c814a;
+    padding: 10px 20px 30px 40px;
+    border: 6px solid black;
+    box-sizing: border-box;
+}
+.cubo2{
+    margin: 10px 20px 30px 40px;
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    padding: 10px 20px 30px 40px;
+    border: 6px solid black;
+    box-sizing: content-box;
+}
+.ciculo1{
+    background-color: #1c814a;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    position: fixed;
+    right: 0;
+    top: 0;   
+    box-shadow: 4px 3px 10px black;
+}
+.icons{
+    margin: 15px 0 0 15px;
+    padding: 0;
+    color: white;
+}
