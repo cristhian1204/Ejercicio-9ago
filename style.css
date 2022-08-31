@@ -89,3 +89,75 @@ background: linear-gradient(120deg, rgba(222,222,222,1) 30%, rgba(105,57,24,1) 6
     padding: 0;
     color: white;
 }
+.ovni{
+    height: 450px;
+    width: 450px;
+    transform: translateX(700px);
+}
+.vaca{
+    height: 100px;
+    width: 100px;
+    transform: rotate(270deg);
+    transform: translateX(150px);
+    transform: translateY(-80px);
+    animation-name: absorción;
+    animation-duration: 10s;
+}
+@keyframes absorción{
+    0%{transform: translate(0px);
+    }
+    50%{transform: translateX(100px);}
+}
+.segundo{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: blueviolet;
+}
+.texto3{
+    word-spacing: 30px;
+}
+.texto4{
+    font-size: 20px;
+    word-spacing: 5px;
+    line-height: 20;
+    text-shadow: -6px 3px 3px #1bcc6b, 6px 3px 3px red;
+}
+.tercero{
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+    font-weight: 600;
+}
+.ciudades li{
+    color: #1bcc6b;
+    margin-left: 50px;
+    font-size: 40px;
+    list-style-type: lower-alpha;  
+}
+#customers{
+    border-collapse: collapse;
+    width: 100%;
+}
+#customers tr, #customers th{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+#customers tr:hover {background-color: #ddd;}
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+}
+.player{
+    color: red;
+}
+#jugador{
+    color: blue;
+}
+h6{
+    font-size: 40px;
+    color: yellow;
+    margin-left: 300px;
+}
