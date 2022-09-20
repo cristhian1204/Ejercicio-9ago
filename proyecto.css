@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://dam.muyinteresante.com.mx/wp-content/uploads/2020/02/girasoles.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Forma{
+    width: 400px;
+    background: rgb(255, 72, 0);
+    padding: 20px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 20px 10px 10px #000;
+    color: white;
+}
+.Forma h1{
+    font-size: 22px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.diseño{
+    width: 100%;
+    background-color: rgb(255, 72, 0);
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 16px;
+    border: 1px solid rgb(255, 161, 37);
+    font-size: 18px;
+    color: white;
+}
+.Boton{
+    width: 100%;
+    background-color: rgb(255, 161, 37);
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+}
+.Forma p{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+    text-decoration: underline;
+}
+.Espacio{
+    padding: 50px;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+    transform: translateX(550px);
+}
+.Espacio h1{
+    font-size: 100px;
+    margin-bottom: 20px;
+    color: rgb(255, 161, 37);
+    text-shadow: 15px 17px 10px #000;
+    text-align: center;
+    font-family: fantasy;
+    letter-spacing: 12px;
+}
