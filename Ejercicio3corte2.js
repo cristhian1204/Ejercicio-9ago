@@ -1,0 +1,160 @@
+let Gana=[
+    {
+        "Nombre_Federacion":"Federacion de futbol de ghana",
+        "Nombre País":"Ghana",
+        "Alias":"The black stars",
+        "Colores_Equipacion":[
+            {
+                "Camiseta":"Amarilla con decorados negros",
+                "Pantaloneta":"Amarilla con franjas laterales negras",
+                "Medias":"Amarillas",
+
+            },
+        ],
+        "Nombre_de_Capitan":"Andre Ayew",
+        "Titulos_o_logros":[
+            {
+                "Copa Africana de Naciones":"4 campeonatos",
+                "Mundial":"Cuartos de final",
+                "Juegos olimpicos":"Cuartos de Final"
+            }
+        ],
+        "Nombre_Del_Tecnico":"Otto addo",
+        "Abreviacion":"GHA",
+        "Goleadores":[
+            {
+                "Nombre":"Asamoha Gyan",
+                "Goles": 51
+            },
+            {
+                "Nombre":"Kwasi Owusu",
+                "Goles": 36
+            },
+            {
+                "Nombre":"Abedi Pele",
+                "Goles": 33
+            },
+        ],
+        "Estadio":[
+            {
+                "Nombre":"Estadio Ohene Djan",
+                "Alias":" Accra Sports Stadium",
+                "Capacidad": 40000,
+                "Locacion":"Accra",
+            },
+        ],
+        "jugadores":[
+            {
+                "Nombre":"Richard",
+                "Apellido":"Ofori",
+                "Edad": 28,
+                "Altura": 190,
+                "Ciudad_Nacimiento":"Accra",
+                "Posicion":"Portero",
+                "Equipo_actual":"Orlando Pirates",
+                "Numero_Camiseta": 31
+            },
+            {
+                "Nombre":"Tariq",
+                "Apellido":"lamptey",
+                "Edad": 21,
+                "Altura": 163,
+                "Ciudad_Nacimiento":"London",
+                "Posicion":"Lateral Derecho",
+                "Equipo_actual":"Brighton",
+                "Numero_Camiseta": 2
+            },
+            {
+                "Nombre":"Daniel",
+                "Apellido":"Amartey",
+                "Edad": 27,
+                "Altura": 186,
+                "Ciudad_Nacimiento":"Accra",
+                "Posicion":"Defensa Central",
+                "Equipo_actual":"Leichester City",
+                "Numero_Camiseta": 18
+            },
+            {
+                "Nombre":"Joseph",
+                "Apellido":"Aidoo",
+                "Edad": 26,
+                "Altura": 177,
+                "Ciudad_Nacimiento":"Tema",
+                "Posicion":"Defensa Central",
+                "Equipo_actual":"Celta de Vigo",
+                "Numero_Camiseta": 15
+            },
+            {
+                "Nombre":"Abdul-rahman",
+                "Apellido":"Baba",
+                "Edad": 28,
+                "Altura": 179,
+                "Ciudad_Nacimiento":"Tamale",
+                "Posicion":"Lateral Derecho",
+                "Equipo_actual":"Reading",
+                "Numero_Camiseta": 12
+            },
+            {
+                "Nombre":"Thomas",
+                "Apellido":"Partey",
+                "Edad": 29,
+                "Altura": 185,
+                "Ciudad_Nacimiento":"Odumase Krobo",
+                "Posicion":"Medio campista defensivo",
+                "Equipo_actual":"Arsenal",
+                "Numero_Camiseta": 5
+            },
+            {
+                "Nombre":"Issahaku",
+                "Apellido":"Fatawu",
+                "Edad": 18,
+                "Altura": 177,
+                "Ciudad_Nacimiento":"Tamale",
+                "Posicion":"Medio Campista Ofensivo",
+                "Equipo_actual":"Sporting",
+                "Numero_Camiseta": 18
+            },
+            {
+                "Nombre":"Daniel-Kofi",
+                "Apellido":"Kyereh",
+                "Edad": 26,
+                "Altura": 179,
+                "Ciudad_Nacimiento":"Accra",
+                "Posicion":"Medio Campista Ofensivo",
+                "Equipo_actual":"Friburgo",
+                "Numero_Camiseta": 11
+            },
+            {
+                "Nombre":"Osman",
+                "Apellido":"Bukari",
+                "Edad": 23,
+                "Altura": 170,
+                "Ciudad_Nacimiento":"Accra",
+                "Posicion":"Extremo Derecho",
+                "Equipo_actual":"Estrella Roja",
+                "Numero_Camiseta": 7
+            },
+            {
+                "Nombre":"André",
+                "Apellido":"Ayew",
+                "Edad": 32,
+                "Altura": 176,
+                "Ciudad_Nacimiento":"Seclin",
+                "Posicion":"Extremo Izquierdo",
+                "Equipo_actual":"Al-saad SC",
+                "Numero_Camiseta": 24
+            },
+            {
+                "Nombre":"Jordan",
+                "Apellido":"Ayew",
+                "Edad": 31,
+                "Altura": 182,
+                "Ciudad_Nacimiento":"Marseille",
+                "Posicion":"Delantero Centro",
+                "Equipo_actual":"Crystal palace",
+                "Numero_Camiseta": 9
+            },
+
+        ]
+    }
+]
