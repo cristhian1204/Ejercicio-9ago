@@ -1,0 +1,127 @@
+{
+    "Residentes_Conjunto":[
+        {
+            "Casa_1":[
+                {
+                    "Nombre_Propietario":"Ana Clara Laverde Cruz",
+                    "Edad": 65,
+                    "Ocupacion": "Nutricionista"
+                },
+                {
+                    "Nombre":"Juan Francisco Suarez Laverde",
+                    "Edad": 45,
+                    "Ocupacion":"Vendedor"
+                },
+                {
+                    "Nombre":"Cristhian David Suarez Laverde",
+                    "Edad":26,
+                    "Ocupacion":"Universitario"
+                },
+                {
+                    "Telefono_Contacto": 3102302870
+                }
+            ],
+            "Casa_15":[
+                {
+                    "Nombre_Propietario":"Diego Alejandro Orduz",
+                    "Edad": 30,
+                    "Ocupacion": "Ingeniero de Sistemas"
+                },
+                {
+                    "Nombre":"Jenny Paola Hernandez Herran",
+                    "Edad":28,
+                    "Ocupacion":"Administradora de Empresas"  
+                },
+                {
+                    "Nombre":"Daniel Alejandro Robayo Hernandez",
+                    "Edad":12,
+                    "Ocupacion":"Estudiantes Secundaria"
+                },
+                {
+                    "Nombre":"Maria Jose Orduz Hernandez",
+                    "Edad":6,
+                    "Ocupacion":"Estudiante Primaria"
+                },
+                {
+                    "Telefono_Contacto":3242994155
+                }
+            ],
+            "Casa_52":[
+                {
+                    "Nombre_Propietario":"Yolanda Hernandez Torres",
+                    "Edad":62,
+                    "Ocupacion":"Jefe cocina"
+                },
+                {
+                    "Nombre":"Pablo Ernesto Herran Flores",
+                    "Edad": 59,
+                    "Ocupacion":"Vendedor Seguros"
+                },
+                {
+                    "Telefono_Contacto": 3132636404
+                }
+            ],
+            "Casa_70":[
+                {
+                    "Nombre_Propietario":"Alberto Salazar",
+                    "Edad": 55,
+                    "Ocupacion": "Operario"
+                },
+                {
+                    "Nombre":"Janeth Hernandez Mora",
+                    "Edad": 58,
+                    "Ocupacion": "Docente Jardin"
+                },
+                {
+                    "Nombre":"Cristian David Salazar Hernandez",
+                    "Edad": 36,
+                    "Ocupacion":"Veterinario"
+                },
+                {
+                    "Telefono_Contacto":3124822671
+                }
+            ]
+        }
+
+    ],
+    "Invitados_Frecuentes":[
+        {
+            "Casa_1":[
+                {
+                    "Nombre":"Ana Clara Cruz Cruz",
+                    "Parentezco":"Madre",
+                    "Cedula": 41755150
+                },
+                {
+                    "Nombre":"Nicolas Tellez",
+                    "Parentezco":"Amigo",
+                    "Cedula": 1013667587
+                },
+                {
+                    "Nombre":"Paola Suarez Laverde",
+                    "Parentezco":"Hija",
+                    "Cedula": 79390377
+                }
+            ],
+            "Casa_15":[
+                {
+                    "Nombre":"Olga Lucia",
+                    "Parentezco":"Madre",
+                    "Cedula": 42755203
+                },
+                {
+                    "Nombre":"Pablo Lopez",
+                    "Parentezco":"Padre",
+                    "Cedula": 55350640
+                }
+            ],
+            "Casa_52":[
+                {
+                    "Nombre":"Cindy Guerrero",
+                    "Parentezco":"Señora aseo",
+                    "Cedula":1005834522
+                }
+            ]
+        }
+    ]
+}
