@@ -28,7 +28,7 @@ body{
     padding: 10px;
     border-radius: 6px;
     margin-bottom: 16px;
-    border: 1px solid rgb(255, 161, 37);
+    border: 3px solid rgb(255, 161, 37);
     font-size: 18px;
     color: white;
 }
@@ -64,4 +64,7 @@ body{
     text-align: center;
     font-family: fantasy;
     letter-spacing: 12px;
+}
+::placeholder {
+    color: white;
 }

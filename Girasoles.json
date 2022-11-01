@@ -3,7 +3,9 @@
         {
             "Casa_1":[
                 {
-                    "Nombre_Propietario":"Ana Clara Laverde Cruz",
+                    "Nombre_Propietario":"Ana Clara ",
+                    "Apellido":"Laverde Cruz",
+                    "Correo": "anaclara_1109@hotmail.com",
                     "Edad": 65,
                     "Ocupacion": "Nutricionista"
                 },
@@ -23,7 +25,9 @@
             ],
             "Casa_15":[
                 {
-                    "Nombre_Propietario":"Diego Alejandro Orduz",
+                    "Nombre_Propietario":"Diego Alejandro ",
+                    "Apellido":"Orduz",
+                    "Correo": "Dieguz19@Gmail.com",
                     "Edad": 30,
                     "Ocupacion": "Ingeniero de Sistemas"
                 },
@@ -48,7 +52,9 @@
             ],
             "Casa_52":[
                 {
-                    "Nombre_Propietario":"Yolanda Hernandez Torres",
+                    "Nombre_Propietario":"Yolanda ",
+                    "Apellido":"Hernandez Torres",
+                    "Correo": "yolherna@hotmail.com",
                     "Edad":62,
                     "Ocupacion":"Jefe cocina"
                 },
@@ -63,7 +69,9 @@
             ],
             "Casa_70":[
                 {
-                    "Nombre_Propietario":"Alberto Salazar",
+                    "Nombre_Propietario":"Alberto ",
+                    "Apellido":"Salazar",
+                    "Correo": "Alberto1204@hotmail.com",
                     "Edad": 55,
                     "Ocupacion": "Operario"
                 },
@@ -90,36 +98,42 @@
                 {
                     "Nombre":"Ana Clara Cruz Cruz",
                     "Parentezco":"Madre",
-                    "Cedula": 41755150
+                    "Cedula": 41755150,
+                    "celular": 3202302879
                 },
                 {
                     "Nombre":"Nicolas Tellez",
                     "Parentezco":"Amigo",
-                    "Cedula": 1013667587
+                    "Cedula": 1013667587,
+                    "celular": 3102803228
                 },
                 {
                     "Nombre":"Paola Suarez Laverde",
                     "Parentezco":"Hija",
-                    "Cedula": 79390377
+                    "Cedula": 79390377,
+                    "celular":317759350
                 }
             ],
             "Casa_15":[
                 {
                     "Nombre":"Olga Lucia",
                     "Parentezco":"Madre",
-                    "Cedula": 42755203
+                    "Cedula": 42755203,
+                    "celular": 3142679218
                 },
                 {
                     "Nombre":"Pablo Lopez",
                     "Parentezco":"Padre",
-                    "Cedula": 55350640
+                    "Cedula": 55350640,
+                    "celular": 3104863127
                 }
             ],
             "Casa_52":[
                 {
                     "Nombre":"Cindy Guerrero",
                     "Parentezco":"Señora aseo",
-                    "Cedula":1005834522
+                    "Cedula":1005834522,
+                    "celular": 3014912707
                 }
             ]
         }
