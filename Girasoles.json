@@ -1,105 +1,33 @@
 {
-    "Residentes_Conjunto":[
+    "casa":[
         {
-            "Casa_1":[
+            "numero": 1,
+            "telefono_fijo": 1577438,
+            "direccion": "",
+            "propietario": {
+                "nombre": "Ana Clara Laverde Cruz",
+                "edad": 65,
+                "telefono": 3102302879,
+                "correo": "anaclara_1109@hotmail.com"
+            },
+            "habitantes": [
                 {
-                    "Nombre_Propietario":"Ana Clara ",
-                    "Apellido":"Laverde Cruz",
-                    "Correo": "anaclara_1109@hotmail.com",
-                    "Edad": 65,
-                    "Ocupacion": "Nutricionista"
+                    "nombre":"Juan Francisco Suarez Laverde",
+                    "edad": 45,
+                    "telefono": 3115113747
                 },
                 {
-                    "Nombre":"Juan Francisco Suarez Laverde",
-                    "Edad": 45,
-                    "Ocupacion":"Vendedor"
-                },
-                {
-                    "Nombre":"Cristhian David Suarez Laverde",
-                    "Edad":26,
-                    "Ocupacion":"Universitario"
-                },
-                {
-                    "Telefono_Contacto": 3102302870
-                }
+                    "nombre": "Cristhian David Suarez Laverde",
+                    "edad": 26,
+                    "telefono": 3217048258
+                }  
             ],
-            "Casa_15":[
-                {
-                    "Nombre_Propietario":"Diego Alejandro ",
-                    "Apellido":"Orduz",
-                    "Correo": "Dieguz19@Gmail.com",
-                    "Edad": 30,
-                    "Ocupacion": "Ingeniero de Sistemas"
-                },
-                {
-                    "Nombre":"Jenny Paola Hernandez Herran",
-                    "Edad":28,
-                    "Ocupacion":"Administradora de Empresas"  
-                },
-                {
-                    "Nombre":"Daniel Alejandro Robayo Hernandez",
-                    "Edad":12,
-                    "Ocupacion":"Estudiantes Secundaria"
-                },
-                {
-                    "Nombre":"Maria Jose Orduz Hernandez",
-                    "Edad":6,
-                    "Ocupacion":"Estudiante Primaria"
-                },
-                {
-                    "Telefono_Contacto":3242994155
-                }
-            ],
-            "Casa_52":[
-                {
-                    "Nombre_Propietario":"Yolanda ",
-                    "Apellido":"Hernandez Torres",
-                    "Correo": "yolherna@hotmail.com",
-                    "Edad":62,
-                    "Ocupacion":"Jefe cocina"
-                },
-                {
-                    "Nombre":"Pablo Ernesto Herran Flores",
-                    "Edad": 59,
-                    "Ocupacion":"Vendedor Seguros"
-                },
-                {
-                    "Telefono_Contacto": 3132636404
-                }
-            ],
-            "Casa_70":[
-                {
-                    "Nombre_Propietario":"Alberto ",
-                    "Apellido":"Salazar",
-                    "Correo": "Alberto1204@hotmail.com",
-                    "Edad": 55,
-                    "Ocupacion": "Operario"
-                },
-                {
-                    "Nombre":"Janeth Hernandez Mora",
-                    "Edad": 58,
-                    "Ocupacion": "Docente Jardin"
-                },
-                {
-                    "Nombre":"Cristian David Salazar Hernandez",
-                    "Edad": 36,
-                    "Ocupacion":"Veterinario"
-                },
-                {
-                    "Telefono_Contacto":3124822671
-                }
-            ]
-        }
-
-    ],
-    "Invitados_Frecuentes":[
-        {
-            "Casa_1":[
+            "invitados_frecuentes": [
                 {
                     "Nombre":"Ana Clara Cruz Cruz",
                     "Parentezco":"Madre",
                     "Cedula": 41755150,
-                    "celular": 3202302879
+                    "celular": 3202558279
                 },
                 {
                     "Nombre":"Nicolas Tellez",
@@ -113,29 +41,126 @@
                     "Cedula": 79390377,
                     "celular":317759350
                 }
-            ],
-            "Casa_15":[
+            ]
+        },
+        {
+            "numero": 15,
+            "telefono_fijo": 7286392,
+            "direccion": "",
+            "propietario": {
+                "nombre": "Diego Alejandro Orduz",
+                "edad": 30,
+                "telefono": 3242994155,
+                "correo": "Dieguz19@Gmail.com"
+            },
+            "habitantes": [
                 {
-                    "Nombre":"Olga Lucia",
+                    "nombre":"Jenny Paola Hernandez Herran",
+                    "edad": 28,
+                    "telefono": 3142679218
+                },
+                {
+                    "nombre": "Daniel Alejandro Robayo Hernandez",
+                    "edad": 12,
+                    "telefono": "no tiene"
+                },
+                {
+                    "nombre": "Maria Jose Orduz Hernandez",
+                    "edad": 6,
+                    "telefono": "no tiene"
+                }  
+            ],
+            "invitados_frecuentes": [
+                {
+                    "Nombre":"Olga Lucia Orduz",
                     "Parentezco":"Madre",
-                    "Cedula": 42755203,
-                    "celular": 3142679218
+                    "Cedula": 38753936,
+                    "celular": 3219934130
                 },
                 {
                     "Nombre":"Pablo Lopez",
-                    "Parentezco":"Padre",
-                    "Cedula": 55350640,
-                    "celular": 3104863127
+                    "Parentezco":"tio",
+                    "Cedula": 40150673,
+                    "celular": 3134727838 
+                }
+            ]
+        },
+        {
+            "numero": 52,
+            "telefono_fijo": 57523374,
+            "direccion": "",
+            "propietario":{
+                "nombre": "Yolanda Hernandez Torres",
+                "edad": 62,
+                "telefono": 3125659822,
+                "correo": "yolherna@hotmail.com" 
+            },
+            "habitantes":[
+                {
+                    "nombre": "Pablo Ernesto Suarez Herran",
+                    "edad": 59,
+                    "telefono": 3132636404
                 }
             ],
-            "Casa_52":[
+            "invitados_frecuentes":[
                 {
-                    "Nombre":"Cindy Guerrero",
-                    "Parentezco":"Señora aseo",
-                    "Cedula":1005834522,
+                    "nombre": "Cindy Guerrero",
+                    "parentezco": "Señora Aseo",
+                    "cedula": 1005834522,
                     "celular": 3014912707
                 }
             ]
-        }
+        },
+        {
+            "numero": 70,
+            "telefono_fijo": 3474448,
+            "direccion": "",
+            "propietario":{
+                "nombre": "Alberto Salazar",
+                "edad": 59,
+                "telefono": 3124822671,
+                "correo": "Alberto5915@hotmail.com"
+            },
+            "habitantes":[
+                {
+                    "nombre": "Janeth Hernandez Mora",
+                    "edad": 58,
+                    "telefono": 3218685870
+                },
+                {
+                    "nombre": "Cristian David Salazar Hernandez",
+                    "edad": 36,
+                    "telefono": 3043506199
+                }
+            ],
+            "invitados_frecuentes":[
+                {
+                    "nombre": "Natalia Hoyos Toro",
+                    "parentezco": "Nuera",
+                    "cedula": 1105847208,
+                    "celular":   3216290672
+                },
+                {
+                    "nombre": "Marina Hernandez Mora",
+                    "parentezco": "Hermana",
+                    "cedula": 41685234,
+                    "celular":  3115971992
+                }
+            ]
+        } 
     ]
-}
+}            
+        
+
+
+
+
+
+
+
+
+
+        
+          
+          
+            
