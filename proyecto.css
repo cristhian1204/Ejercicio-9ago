@@ -3,11 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
     background-image: url(https://dam.muyinteresante.com.mx/wp-content/uploads/2020/02/girasoles.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 .Forma{
     width: 400px;
     background: rgb(255, 72, 0);
@@ -17,11 +19,13 @@ body{
     box-shadow: 20px 10px 10px #000;
     color: white;
 }
+
 .Forma h1{
     font-size: 22px;
     margin-bottom: 20px;
     text-align: center;
 }
+
 .diseño{
     width: 100%;
     background-color: rgb(255, 72, 0);
@@ -32,15 +36,18 @@ body{
     font-size: 18px;
     color: white;
 }
+
 .Boton{
     width: 100%;
     background-color: rgb(255, 161, 37);
     border: none;
     padding: 12px;
     color: white;
-    margin: 16px 0;
-    font-size: 16px;
+    margin: 60px;
+    font-size: 18px;
+    text-decoration: none;
 }
+
 .Forma p{
     height: 40px;
     text-align: center;
@@ -48,14 +55,17 @@ body{
     line-height: 40px;
     text-decoration: underline;
 }
+
 .Espacio{
     padding: 50px;
 }
+
 .logo{
     width: 150px;
     height: 150px;
     transform: translateX(550px);
 }
+
 .Espacio h1{
     font-size: 100px;
     margin-bottom: 20px;
@@ -65,6 +75,83 @@ body{
     font-family: fantasy;
     letter-spacing: 12px;
 }
+
 ::placeholder {
     color: white;
+}
+
+.Boton2{
+    width: 100%;
+    background-color: rgb(255, 161, 37);
+    border: none;
+    padding: 14px;
+    color: white;
+    margin: 130px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.Boton3{
+    width: 100%;
+    background-color: rgb(255, 161, 37);
+    border: none;
+    padding: 14px;
+    color: white;
+    margin: 100px;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.Forma2{
+    width: 400px;
+    background: rgb(255, 72, 0);
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 16px;
+    border: 3px solid rgb(255, 161, 37);
+    font-size: 18px;
+    color: white;
+    margin: auto;
+}
+
+.Menu{
+    background: rgb(255, 72, 0);
+    list-style: none;
+    padding: 12px;
+    width: 90%;
+    margin: auto;
+    border-radius: 10px;
+    border: 3px solid rgb(255, 161, 37);
+}
+
+.Menu li h4{
+    text-decoration: none;
+    color: white;
+    padding: 12px;
+    display: block;
+}
+
+.Menu li{
+    display: inline-block;
+}
+
+.Menu li h4:hover{
+    background: rgb(207, 54, 16);
+}
+
+.Forma2 div p{
+    display: block;
+    padding: 14px;
+}
+
+.Menu li h5{
+    text-decoration: none;
+    color: white;
+    padding: 12px;
+    display: block;
+}
+.Foto{
+    margin: 40px;
 }
